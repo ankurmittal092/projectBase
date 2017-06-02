@@ -1,7 +1,7 @@
 {
-  "name": "Realtime-chat-application",
+  "name": "Project base",
   "version": "0.0.0",
-  "description": "Realtime Chat Application",
+  "description": "Project base",
   "repository": {
     "type": "git",
     "url": ""
