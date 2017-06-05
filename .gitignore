@@ -1,0 +1,8 @@
+.DS_Store
+.tmp
+logs
+node_modules
+src/css/styles.css
+npm-debug.log
+report-violation.json
+*.log
