@@ -5,17 +5,17 @@ This repository contains base configuration for projects on the basis of differe
 Contains base configuration with features listed below:
 - Express server
 - Neat folder structuring
-- Gulp dev tasks for less and js (Uses browserify)
+- Webpack configuration
 - Basic css for page layout
 
 **Dependencies:**
 - Node >= v6.3.0
 - NPM >= v3.1.0
-- Gulp
+- Webpack
 
 **Init Commands**
 - npm install
-- gulp && gulp watch
+- webpack
 - npm start
 
 After this - open http://localhost:3000/ in browser.
